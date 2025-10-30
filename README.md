@@ -30,7 +30,7 @@ python main_menu.py
 
 
 If it’s your first time, the app will ask you to set a password.
-Then you can start writing your diary entries right away 📝
+Then you can start writing your diary entries right away 
 
 Files Explained
 File	Description
@@ -63,6 +63,6 @@ Nehal Parmar
 
 A curious BCA student who loves tech, creativity, and making small ideas come alive 
 
-⭐ If you liked it
+ If you liked it
 
-Don’t forget to star 🌟 the repo — it’ll make me super happy 🥹
+Don’t forget to star  the repo — it’ll make me super happy 
