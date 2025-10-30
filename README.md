@@ -17,7 +17,7 @@ How To Run This Project
 
 Download or clone this repo:
 
-git clone https://github.com/yourusername/Econotes.git
+git clone https://github.com/nehalparmar238/Econotes.git
 
 
 Open the folder in VS Code (or any IDE you like).
